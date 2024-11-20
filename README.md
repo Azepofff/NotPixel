@@ -1,2 +1,2 @@
 # NotPixel
-simple python automation for notpixel
+simple python automation for notpixel. 
